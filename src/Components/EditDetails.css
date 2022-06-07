@@ -1,0 +1,24 @@
+input{
+    color: rgba(0,0,0,.65) !important;
+}
+
+
+
+.email-area{
+    margin: auto;
+}
+
+.col-7{
+    width: 66.6666% !important;
+}
+
+.form-container{
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+
+}
+
+.form-label{
+    text-align: center;
+}
